@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre Mi:
 Desde que descubrí la programación en 2021, no he dejado de apasionarme este mundo, Me encanta poder crear soluciones a problemas o crear programas interesantes y útiles desde pequeño me apasionan los juegos. Siempre los vi como un medio donde pueda esforzarme por ser el mejor y donde contenía muchos retos. Eso se convirtió la programación para mi, un lugar donde cada día quiero aprender mucho más sobre esto, tanto lenguajes, herramientas y forma de hacer las cosas. No me gusta estancarme, me gusta siempre innovar cada día Y actualmente prefiero más trabajar a nivel Backend   
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-enrique-vargas-648048202/) 
 
 # 💻 Tech Stack:
@@ -14,12 +14,6 @@ Desde que descubrí la programación en 2021, no he dejado de apasionarme este m
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GabrielEVP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GabrielEVP&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GabrielEVP&icon=0&color=0)](https://visitcount.itsvg.in)
