@@ -1,4 +1,4 @@
-# 💫 Sobre Mi:
+# Sobre Mi:
 
 👋🏻 Hola! Soy Gabriel Vargas, Soy Desarrollador Full Stack, He Estudiado un grado FP en CIFP ZORNOTZA LHII de desarrollador Web y he trabajado en RK Informatika como desarrollador Web y Supervisor del departamento de desarrollo
 
