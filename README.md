@@ -4,9 +4,9 @@
 
 📚 En mi etapa de estudio he logrado ser unos de los alumnos mejor valorados del curso. He podido mejorar mi habilidades de desarrollador y de liderazgo. He hecho proyectos como simulaciones de aplicaciones bancarias, Tiendas de bicis y Un juego de naves.
 
- 💼 En mi etapa de trabajo en Rk Informatika he logrado escalar a través de dos años de ser solamente un desarrollador web a ser Supervisor del departamento. He aportado en el desarrollo del programa de gestión y facturación La manzana 🍏. También he manejado equipos y llevado la comunicación con los clientes acerca de nuevos proyectos de desarrollo. 
+💼 En mi etapa de trabajo en Rk Informatika he logrado escalar a través de dos años de ser solamente un desarrollador web a ser Supervisor del departamento. He aportado en el desarrollo del programa de gestión y facturación La manzana 🍏. También he manejado equipos y llevado la comunicación con los clientes acerca de nuevos proyectos de desarrollo. 
 
-👨🏻‍💻 Me apasiona la programación y desarrollo. Considero que es una habilidad demasiado importante de aprender hoy en día y que todo el mundo debería conocer un poco. Es un mundo que es cambiante por ende siempre tienes que estar en constante movimiento y crecimiento. Todo el mundo tiene la capacidad de pensar y tener ideas pero teniendo conocimientos en programación puedes hacer la gran mayoría de esas ideas se hagan realidad o automatizar muchos procesos de tu vida o de la vida de los demás.
+👨🏻‍💻 Me apasiona la programación y desarrollo. Considero que es una habilidad demasiado importante de aprender hoy en día y que todo las personas debería conocer un poco. Es un mundo que es cambiante por ende siempre tienes que estar en constante movimiento y crecimiento. Todas las personas tienen la capacidad de pensar y tener ideas pero teniendo conocimientos en programación puedes hacer la gran mayoría de esas ideas se hagan realidad o automatizar muchos procesos de tu vida o de la vida de los demás.
 
 🎯 Mi objetivo es seguir mejorando profesionalmente en el mundo del desarrollo formando parte de una empresa que me permita aplicar lo aprendido hasta ahora y lo que aprenderé en el futuro creciendo en el proceso tanto personal como profesionalmente para lograr los mejores resultados posibles
 
