@@ -1,5 +1,16 @@
 # 💫 Sobre Mi:
-Desde que descubrí la programación en 2021, no he dejado de apasionarme este mundo, Me encanta poder crear soluciones a problemas o crear programas interesantes y útiles desde pequeño me apasionan los juegos. Siempre los vi como un medio donde pueda esforzarme por ser el mejor y donde contenía muchos retos. Eso se convirtió la programación para mi, un lugar donde cada día quiero aprender mucho más sobre esto, tanto lenguajes, herramientas y forma de hacer las cosas. No me gusta estancarme, me gusta siempre innovar cada día Y actualmente prefiero más trabajar a nivel Backend   
+
+👋🏻 Hola! Soy Gabriel Vargas, Soy Desarrollador Full Stack, He Estudiado un grado FP en CIFP ZORNOTZA LHII de desarrollador Web y he trabajado en RK Informatika como desarrollador Web y Supervisor del departamento de desarrollo
+
+📚 En mi etapa de estudio he logrado ser unos de los alumnos mejor valorados del curso. He podido mejorar mi habilidades de desarrollador y de liderazgo. He hecho proyectos como simulaciones de aplicaciones bancarias, Tiendas de bicis y Un juego de naves.
+
+ 💼 En mi etapa de trabajo en Rk Informatika he logrado escalar a través de dos años de ser solamente un desarrollador web a ser Supervisor del departamento. He aportado en el desarrollo del programa de gestión y facturación La manzana 🍏. También he manejado equipos y llevado la comunicación con los clientes acerca de nuevos proyectos de desarrollo. 
+
+👨🏻‍💻 Me apasiona la programación y desarrollo. Considero que es una habilidad demasiado importante de aprender hoy en día y que todo el mundo debería conocer un poco. Es un mundo que es cambiante por ende siempre tienes que estar en constante movimiento y crecimiento. Todo el mundo tiene la capacidad de pensar y tener ideas pero teniendo conocimientos en programación puedes hacer la gran mayoría de esas ideas se hagan realidad o automatizar muchos procesos de tu vida o de la vida de los demás.
+
+🎯 Mi objetivo es seguir mejorando profesionalmente en el mundo del desarrollo formando parte de una empresa que me permita aplicar lo aprendido hasta ahora y lo que aprenderé en el futuro creciendo en el proceso tanto personal como profesionalmente para lograr los mejores resultados posibles
+
+📞 Si quieres saber más sobre mi. Puedes contactar conmigo por Linkedln o por Email.
 
 
 ## 🌐 Redes Sociales:
