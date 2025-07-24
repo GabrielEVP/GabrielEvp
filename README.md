@@ -4,7 +4,7 @@
 
 📚 Durante mis estudios, fui uno de los alumnos mejor valorados del curso. Esta experiencia me permitió desarrollar habilidades técnicas y de liderazgo, con proyectos destacados como simulaciones de aplicaciones bancarias, tiendas de bicicletas y un juego de naves, los cuales me ayudaron a fortalecer mi capacidad para resolver problemas y crear soluciones efectivas.
 
-💼 En mi última experiencia laboral, tras dos años de desempeño, avancé de Desarrollador Web a Supervisor del Departamento de Desarrollo. Contribuí en el desarrollo de un programa de gestión y facturación, además de gestionar equipos y mantener la comunicación con los clientes sobre nuevos proyectos. Esta experiencia me ha permitido consolidar mi habilidad para liderar y coordinar proyectos de desarrollo de manera eficiente.
+💼 En mi experiencia actual como programador Full Stack por cuenta ajena, he tenido la oportunidad de aprender y crecer profesionalmente asumiendo un rol con un alto nivel de responsabilidad. Tuve a mi cargo el desarrollo completo, desde cero, de un sistema de gestión de deliveries para un cliente, y actualmente me encuentro trabajando en una nueva aplicación para otro proyecto en curso.
 
 👨🏻‍💻 La programación es mi pasión, y creo firmemente que es una habilidad esencial en el mundo actual. La tecnología está en constante evolución, y disfruto de la oportunidad de aprender y adaptarme continuamente. Además, pienso que los conocimientos en programación nos permiten transformar ideas en realidad y automatizar procesos para mejorar la vida de todos.
 
