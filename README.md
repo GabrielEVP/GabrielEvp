@@ -1,6 +1,6 @@
 # Sobre Mi:
 
-👋🏻 Hola! Soy Gabriel Vargas, Desarrollador Full Stack. He completado un grado en Desarrollo Web en CIFP ZORNOTZA LHII y he trabajado como Desarrollador Web y Supervisor del Departamento de Desarrollo.
+👋🏻 Hola! Soy Gabriel Vargas.
 
 📚 Durante mis estudios, fui uno de los alumnos mejor valorados del curso. Esta experiencia me permitió desarrollar habilidades técnicas y de liderazgo, con proyectos destacados como simulaciones de aplicaciones bancarias, tiendas de bicicletas y un juego de naves, los cuales me ayudaron a fortalecer mi capacidad para resolver problemas y crear soluciones efectivas.
 
