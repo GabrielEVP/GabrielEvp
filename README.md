@@ -2,11 +2,13 @@
 
 ## Perfil / Profile
 
-**Español:**  
-Soy desarrollador Full Stack, con fuerte orientación a la proactividad y al aprendizaje constante. He participado en el diseño y desarrollo de aplicaciones priorizando calidad, rendimiento y escalabilidad. Me especializo en escribir código limpio, bien estructurado y mantenible, siguiendo buenas prácticas de desarrollo. Busco trabajar en entornos donde el crecimiento técnico y la mejora continua sean parte de la cultura, aportando soluciones que generen valor real al producto y al equipo.
+Soy Desarrollador Full Stack con experiencia en el diseño y desarrollo de sistemas de gestión, aplicaciones web y soluciones personalizadas para empresas. 
 
-**English:**  
-I am a Full Stack Developer with a strong focus on proactivity and continuous learning. I have experience in designing and developing applications with an emphasis on quality, performance, and scalability. I specialize in writing clean, well-structured, and maintainable code, following best development practices. I am interested in working in environments where technical growth and continuous improvement are part of the culture, contributing solutions that generate real value to the product and the team.
+He liderado proyectos desde cero, gestionando tanto el backend como el frontend, con tecnologías como PHP, Laravel, Vue 3, TypeScript, MySQL y Tailwind CSS. También cuento con experiencia en despliegues cloud (Vercel, Railway) y en la integración de APIs, hardware especializado y dashboards interactivos. 
+
+Me destaco por combinar habilidades técnicas con liderazgo de equipos, gestión de proyectos y comunicación con clientes, logrando soluciones que optimizan procesos y mejoran la eficiencia operativa. 
+
+Busco seguir creciendo en entornos donde pueda aportar valor técnico y estratégico, aplicando buenas prácticas de desarrollo y metodologías ágiles.
 
 ---
 
