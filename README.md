@@ -51,7 +51,7 @@ Busco seguir creciendo en entornos donde pueda aportar valor técnico y estraté
 <a href="https://trello.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" alt="Trello" width="40" height="40"/></a>
 </p>
 
-### Buenas Prácticas / Best Practices
+### Buenas Prácticas
 - Código limpio, mantenible y escalable / Clean, maintainable, and scalable code
 - Principios SOLID / SOLID principles
 - Arquitectura limpia (Clean Architecture) / Clean Architecture
