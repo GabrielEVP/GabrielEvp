@@ -4,7 +4,7 @@
 
 Soy Desarrollador Full Stack con experiencia en el diseño y desarrollo de sistemas de gestión, aplicaciones web y soluciones personalizadas para empresas. 
 
-He liderado proyectos desde cero, gestionando tanto el backend como el frontend, con tecnologías como PHP, Laravel, Vue 3, TypeScript, MySQL y Tailwind CSS. También cuento con experiencia en despliegues cloud (Vercel, Railway) y en la integración de APIs, hardware especializado y dashboards interactivos. 
+He liderado proyectos desde cero, gestionando tanto el backend como el frontend, con tecnologías como PHP, Java, Spring, Laravel, Vue 3, TypeScript, Docker, MySQL y Tailwind CSS. También cuento con experiencia en despliegues cloud (Vercel, Railway) y en la integración de APIs, hardware especializado y dashboards interactivos. 
 
 Me destaco por combinar habilidades técnicas con liderazgo de equipos, gestión de proyectos y comunicación con clientes, logrando soluciones que optimizan procesos y mejoran la eficiencia operativa. 
 
